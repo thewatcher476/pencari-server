@@ -1,4 +1,3 @@
-# syntax=docker/dockerfile:1
 # Multi-arch Dockerfile leveraging pre-packaged Linux releases (from scripts/build-release.sh)
 # or fallback to local files + frankenphp static binary, based on lightweight Alpine Linux.
 
